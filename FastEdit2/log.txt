@@ -1,0 +1,59 @@
+"""
+-------------------------------------------------------------------------------------------------------------------
+|                                              USER GUIDE                                                         |
+-------------------------------------------------------------------------------------------------------------------
+|--------- Default Keyboard Shortcuts ---------|
+      NewFile           -> "Ctrl+N"
+      NewWindow         -> "Ctrl+Shift+N"
+      OpenFile          -> "Ctrl+O"
+      OpenFolder        -> "Ctrl+Shift+O"
+      SaveFile          -> "Ctrl+S"
+      SaveFileAs        -> "Ctrl+Shift+S"
+      ReloadFile        -> "Ctrl+R"
+      RenameFile        -> "Shift+F2"
+      DeleteFile        -> "Shift+Delete"
+      CloseWindow       -> "Alt+F4"
+      Find              -> "Ctrl+
+      ReplaceOne        -> "Ctrl+H"
+      ReplaceAll        -> "Ctrl+Shift+H"
+      ToggleFullScreen  -> "F11"
+      ToggleFocusMode   -> "Shift+F11"
+      Cut               -> "Ctrl+X"
+      Copy              -> "Ctrl+C"
+      Paste             -> "Ctrl+V"
+      Undo              -> "Ctrl+Z"
+      Redo              -> "Ctrl+Y"
+      SelectAll         -> "Ctrl+A"
+      GoToLine          -> "Ctrl+G"
+      RunFile           -> "F5"
+      StopRun           -> "Shift+F5"
+      ReloadRun         -> "Ctrl+Shift+F5"
+      Enter             -> "Enter"
+      ZoomIn            -> "Ctrl++"
+      ZoomOut           -> "Ctrl+-"
+      Indentation       -> "Tab"
+
+|----------- Steps to open a file -----------|
+      1. Click on open file             Ctrl+O
+      2. Edit file
+      3. Click on save file             Ctrl+S
+      
+|----------- Steps to save a file -----------|
+      1. Click on new file              Ctrl+N
+      2. Click on save as         Ctrl+Shift+S
+      3. Now code...
+      
+|----------- Additional features --------------------------------------------------------------------------------|
+      1. You can view your last deleted file's text in "log.txt" file. 
+      2. Copy current file's path by clicking on Copy File Path.
+      3. Auto-closing brackets to make coding faster.
+      4. Auto-lexer feature in which FastEdit can detect which type of file is and will set lexer according to it.
+      5. Save/Unsave button will tell you whether the file is saved or not. 
+      6. Builtin file explorer to manage folders and files directly through editor.
+      7. FastEdit focus mode works same as sublime text's no distraction mode.
+      8. You can hide/show any of widget in FastEdit except menu bar.
+      9. Modern syntax-highlighting, brace-matching and line number bar with QScintilla.
+     10. It is fast because it takes very less memory and don't takes much size in the storage.
+     11. Supported languages are: HTML, CSS, JavaScript, Python and JSON. In future we will add support for more languages.
+     12. You can modify shortcuts, fonts and indentation of editor.
+"""
