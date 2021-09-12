@@ -1,0 +1,40 @@
+{
+      "Name": "Editor Theme",
+      "Background": "#222",
+      "FoldArea": "#222",
+      "Color": "#fff",
+      "SyntaxColouring": {
+            "keyword": "#41abd4",
+            "comment": "grey",
+            "string": "#eedb71",
+            "number": "violet",
+            "unclosedString": "red",
+
+            "html.string": "lightblue",
+            "html.tag": "#ff5e5e",
+            "html.attribute": "#8aff6d",
+            "html.value": "lightblue",
+            "html.entity": "grey",
+
+            "css.tag": "#d400ff",
+            "css.attribute": "#8aff6d",
+            "css.property": "lightblue",
+            "css.value": "lightgreen",
+            "css.pseudoElement": "lightblue",
+            "css.extendedPseudoElement": "lightcoral",
+            "css.extendedPseudoClass": "lightcoral",
+            "css.pseudoClass": "lightcoral",
+            "css.variables": "#00ffea",
+            "css.classSelector": "#00ffea",
+            "css.idSelector": "#00ffea",
+            "css.mediaRule": "#ff6e6e",
+
+            "python.fString": "#f8e263",
+            "python.className": "#73ff00",
+            "python.decorator": "lightblue",
+            "python.methodName": "#73ff00",
+
+            "json.property": "lightgreen",
+            "json.iri": "lightblue"
+      }
+}

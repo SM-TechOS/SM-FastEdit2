@@ -1,0 +1,23 @@
+{
+    "TabWidth": 4,
+    "Encoding": "utf8",
+    "Caret": {
+        "CaretWidth": 4, 
+        "CaretStyle": "line", 
+        "CaretColor": "#62b8ff",
+        "LineHighlighting": true,
+        "LineHighlightColor": {"r": 255, "g": 255,"b": 255,"alpha": 0.04}
+    },
+    "Indent": {
+        "AutoIndent": true,
+        "BackSpaceUnindent": true,
+        "IndentUseTabs": false
+    },
+    "HighlightLine": true,
+    "HighlightMatchesIndicatorColor": {"r": 105, "g": 161,"b": 224,"alpha": 100},
+    "SelectionBackgroundColor": {"r": 152, "g": 189,"b": 245, "alpha": 90},
+    "BraceMatching": true,
+    "LineNumbersVisible": true,
+    "CallTipsEnabled": true,
+    "AutoCloseBrackets": true
+}

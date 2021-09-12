@@ -1,0 +1,10 @@
+{
+    "Console": {
+        "FontSize": 13, 
+        "FontFamily": "Consolas" 
+    },
+    "Editor": {
+        "FontSize": 13,
+        "FontFamily": "Consolas"
+    }
+}

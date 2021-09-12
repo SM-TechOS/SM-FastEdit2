@@ -1,0 +1,13 @@
+{
+    "WindowMinimumWidth": 1000,
+    "WindowMinimumHeight": 500,
+    "TabMovable": true,
+    "TabClosable": true,
+    "TabScrollButtonsVisible": false,
+    "ExplorerAnimated": false,
+    "TabIconWidth": 25,
+    "TabIconHeight": 25,
+    "ExplorerBarMinWidth": 300,
+    "ExplorerBarMaxWidth": 350,
+    "CloseFilesOnOpeningFolder": true
+}

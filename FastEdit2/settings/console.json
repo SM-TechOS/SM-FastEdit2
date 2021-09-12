@@ -1,0 +1,11 @@
+{
+      "Console": {
+            "CaretWidth": 12,
+            "ReadOnlyMode": true,
+            "MinHeight": 180,
+            "MaxHeight": 235
+      },
+      "Run": {
+            "OpenHTMLFileInBuiltinBrowser": true
+      }
+}
